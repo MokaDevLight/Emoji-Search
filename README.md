@@ -1,11 +1,17 @@
-## moka
+ Moka
 
 ## Emoji Search
 
-## Install
+## Project setup :
 
 `npm install`
-
-## Usage
-
 `npm start`
+
+## Features:
+
+- Ability to type emoji name
+- Ability to type numbers and letters
+
+## Technologies:
+
+- 
