@@ -1,11 +1,5 @@
  Moka
-
-## Emoji Search
-
-## Project setup :
-
-`npm install`
-`npm start`
+ Emoji Search
 
 ## Features:
 
@@ -14,4 +8,11 @@
 
 ## Technologies:
 
-- 
+- prop-types
+- test
+- Class Component
+
+## Project setup :
+
+`npm install`
+`npm start`
